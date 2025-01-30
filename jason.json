@@ -1,0 +1,18 @@
+{
+"navne": {
+"fornavn": "oliver",
+"efternavn": "andersen"
+
+},
+
+"alder": 30,
+"studerende": true,
+"interresser": ["design", "medier", "rejser"],
+"adresse": {
+"vej": "hovedstaden 12",
+"by": "københavn k",
+"postnummer": 2300
+
+},
+"fødselsdagato": "2000-05-15"
+}
